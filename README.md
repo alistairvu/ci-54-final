@@ -6,4 +6,4 @@ Xem trong folder problem-solving
 
 ### Code Challenge
 
-Xem ở trang web alistairvu.github.io/ci54-final
+Xem ở trang web alistairvu.github.io/ci-54-final
